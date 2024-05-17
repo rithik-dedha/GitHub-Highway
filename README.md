@@ -1,8 +1,4 @@
-# Devops Pipeline
-Team Members: 
-  - Sumit Singh
-  - Ashwin Sapre
-  - Nitesh Mishra
+# Developed by - Rithik Kumar Goyal
 
 # Folder Structure
 
